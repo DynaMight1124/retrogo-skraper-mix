@@ -1,3 +1,5 @@
+# Small edit for RetroGo. All the hard work goes to EBZero and Tobio.
+
 # RG Nano Skraper Mix
 ## Inspired by and forked from [garlic-onion-skraper-mix](https://github.com/ebzero/garlic-onion-skraper-mix) by **[EBZero](https://github.com/ebzero)**!
 ### Optimimized with (🧨) for tiny devices
